@@ -48,7 +48,7 @@ function reformatDateProperties(list, properties, format) {
 2. Enter values for the script input parameters
    1. Format: TheDayJS format you want the date property to become. Default is "YYYY-MM-DD".
    2. List: The list of items you want to format date properties for.
-   3. PropertiesList: A list of properties that you want to format as dates (e.g. = ['EndDate']).
+   3. PropertiesList: A list of properties that you want to format as dates (e.g. = ['DateOfBirth']).
 4. Result: The script returns a List of items with the specified date properties formatted to the desired format.
 
 ![](images/InputProperties.png)
